@@ -1,3 +1,8 @@
+
+![MergedImages (3)](https://github.com/abduleyousuf08/TrackCalorie-project/assets/114812664/c25db2f2-548a-4bcb-9e35-4c08f945ae44)
+
+
+
 **TrackCalorie Project**
 
 The TrackCalorie project is designed to track daily routines, including workouts, meals, and calories, to help users calculate their daily gains or losses. The project is built using Object-Oriented Programming (OOP) concepts in JavaScript to enhance proficiency in OOP within a practical application.
